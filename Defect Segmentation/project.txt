@@ -1,0 +1,1 @@
+In this project, you will be developing a model to detect defects by Industrial Optical Inspection on Textured Surfaces. This problem can be modelled as an Image Segmentation task where you will have to find the pixels where the defect occurs in a given image

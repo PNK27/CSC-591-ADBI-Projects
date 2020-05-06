@@ -1,0 +1,6 @@
+
+ In this Project, you will be exposed to the following core Data Wrangling steps using Python’s Pandas and Regex modules: 
+ 
+• Data Acquisition • Data Cleansing • Data Understanding: Basics • Data Manipulation 
+ 
+Each step consists of objectives to be covered in the Project
